@@ -1,0 +1,15 @@
+
+#carrinho {
+    border:solid 1px;
+    border-radius:10px;
+    border-color:#DCDCDC;
+    padding:50px;
+    background-color: #F5F5F5;
+ 
+}
+
+.mensagem > .container {
+    border-radius:10px;
+    border-color:#4682B4;
+}
+

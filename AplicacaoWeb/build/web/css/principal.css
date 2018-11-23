@@ -1,0 +1,132 @@
+/* 
+    Created on : 23/09/2018, 10:18:05
+    Author     : Amanda Lima
+*/
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px;
+    margin: 0px;
+    color: darkblue;
+}
+
+.div-table { display:table; width: auto; }
+.div-table-row{display:table-row; width: auto; }
+.div-table-col{ border: 1px solid #484848; display:table-cell; padding: 5px; width: 33%; text-align: center; }
+#mensagem, #msg {
+    margin: 15px;
+    padding: 15px;
+    width: 60%;
+    border:solid 1px;
+    border-radius:10px;
+    border-color:#DCDCDC;
+    color:#696969;
+    text-transform: uppercase;
+}
+#conteudo {
+    width: 700px;
+    text-align: center;
+    min-height: 500px;
+    padding: 15px;
+ 
+}
+#conteudo table {
+    width: 100%;
+    border: 1px solid darkblue;
+}
+#conteudo table tr th.controles {
+    width: 100px;
+}
+#titulo {
+    font-size: 40px;
+    font-weight: bold;
+ 
+    font-family: Roboto, sans-serif;
+}
+.rotulo {
+    width: 150px;
+}
+.valor {
+
+}
+
+    .details li {
+      list-style: none;
+    }
+    li {
+        margin-bottom:10px;
+        
+    }
+
+table {
+border-collapse: separate;
+width: 60%;
+text-align: center;
+
+
+}
+
+th, td {
+    text-align: left;
+
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+
+tr{
+    height: 50px;
+ 
+}
+
+th {
+    background-color: #25363A;
+    color: white;
+    height: 30px;
+
+}
+
+
+
+.container form input {
+    
+    width:400px;
+    
+}
+
+.row{
+    width: 90%;
+}
+
+#appearance-select{
+   -webkit-appearance: none;  /* Remove estilo padrão do Chrome */
+   -moz-appearance: none; /* Remove estilo padrão do FireFox */
+   appearance: none; /* Remove estilo padrão do FireFox*/
+   background: url(http://www.webcis.com.br/images/imagens-noticias/select/ico-seta-appearance.gif) no-repeat #eeeeee;  /* Imagem de fundo (Seta) */
+   background-position: 218px center;  /*Posição da imagem do background*/
+   width: 250px; /* Tamanho do select, maior que o tamanho da div "div-select" */
+   height:30px; /* Altura do select, importante para que tenha a mesma altura em todo os navegadores */
+   border:1px solid #ddd;
+}
+
+.danger {
+    color:red;
+    border: 1px solid red;
+
+}
+
+.success{
+    color:green;
+    border: 1px solid green;
+
+}
+
+.fa fa {  margin-bottom: 10px;margin-right: 10px;}
+
+small {
+display: block;
+line-height: 1.428571429;
+color: #999;
+}
+
+footer{
+    width: 100%;
+}

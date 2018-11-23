@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/amaaa/Desktop/SMD/semestre%206/prog%20web%201/AplicacaoWeb/web/css/home.css</file>
+            <file>file:/C:/Users/amaaa/Desktop/SMD/semestre%206/prog%20web%201/AplicacaoWeb/web/login.jsp</file>
+            <file>file:/C:/Users/amaaa/Desktop/SMD/semestre%206/prog%20web%201/AplicacaoWeb/src/java/controle/usuario/LoginServlet.java</file>
+            <file>file:/C:/Users/amaaa/Desktop/SMD/semestre%206/prog%20web%201/AplicacaoWeb/web/WEB-INF/pages/usuario/listar.jsp</file>
+            <file>file:/C:/Users/amaaa/Desktop/SMD/semestre%206/prog%20web%201/AplicacaoWeb/web/index.jsp</file>
+            <file>file:/C:/Users/amaaa/Desktop/SMD/semestre%206/prog%20web%201/AplicacaoWeb/src/java/controle/venda/VerVendasUsuario.java</file>
+            <file>file:/C:/Users/amaaa/Desktop/SMD/semestre%206/prog%20web%201/AplicacaoWeb/src/java/modelo/venda/VendaDAO.java</file>
+            <file>file:/C:/Users/amaaa/Desktop/SMD/semestre%206/prog%20web%201/AplicacaoWeb/src/java/controle/venda/FinalizarVendaServlet.java</file>
+            <file>file:/C:/Users/amaaa/Desktop/SMD/semestre%206/prog%20web%201/AplicacaoWeb/web/WEB-INF/pages/vendas/listar.jsp</file>
+            <file>file:/C:/Users/amaaa/Desktop/SMD/semestre%206/prog%20web%201/AplicacaoWeb/src/java/backup/script_ddl.sql</file>
+            <file>file:/C:/Users/amaaa/Desktop/SMD/semestre%206/prog%20web%201/AplicacaoWeb/web/css/principal.css</file>
+            <file>file:/C:/Users/amaaa/Desktop/SMD/semestre%206/prog%20web%201/AplicacaoWeb/src/java/modelo/venda/VendaNegocio.java</file>
+            <file>file:/C:/Users/amaaa/Desktop/SMD/semestre%206/prog%20web%201/AplicacaoWeb/web/WEB-INF/pages/produto/listar.jsp</file>
+        </group>
+    </open-files>
+</project-private>
